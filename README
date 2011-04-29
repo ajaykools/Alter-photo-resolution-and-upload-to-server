@@ -1,0 +1,7 @@
+There are two files ftp.py and resize.py.
+
+ftp.py - It is a python script to upload a file to your server (single or bulk)
+	Usage:- python ftp.py "filename"  -----  Ex:- python ftp.py linux.jpeg
+
+resize.py - Python script to alter resolution of photos. defualt its 200 x 200. (single or bulk)
+	Usage:- python resize.py "filename" ----- Ex:- python resize.py linux.jpeg
